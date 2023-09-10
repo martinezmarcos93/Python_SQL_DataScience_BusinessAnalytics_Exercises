@@ -10,7 +10,6 @@ La carpeta "ejercicios_semanales" contiene material organizado por semana durant
 Notebooks de Python con ejercicios para reforzar los fundamentos de la programación en Python.
 Consultas SQL y ejercicios para desarrollar tus habilidades en el manejo de bases de datos.
 Introducción a conceptos clave de Ciencia de Datos y Machine Learning con ejemplos prácticos.
-Recursos adicionales, como lecturas recomendadas y enlaces a tutoriales relevantes.
 
 2. Ejercicios Integradores
 La carpeta "ejercicios_integradores" es el siguiente paso después de completar las semanas iniciales. Aquí te desafiamos a aplicar lo que has aprendido de manera integrada. En esta sección, encontrarás:
