@@ -29,5 +29,7 @@ Clona o descarga este repositorio a tu entorno local.
 Explora las carpetas "ejercicios_semanales", "ejercicios_integradores" y "ejercicios_aplicacion_compleja" según tu nivel de habilidad y objetivos de aprendizaje.
 Sigue el programa de 24 semanas o personalízalo según tus necesidades y ritmo de aprendizaje.
 Completa los ejercicios, proyectos y desafíos, y revisa las soluciones proporcionadas si es necesario.
+
+
 ¡Aprende, practica y mejora tus habilidades en Python, SQL, Ciencia de Datos y Análisis de Negocios!
 Colección de ejercicios y material de aprendizaje estructurado para ayudarte a mejorar tus habilidades en Python, SQL, Ciencia de Datos y Análisis de Negocios.
