@@ -24,12 +24,12 @@ La carpeta "ejercicios_aplicacion_compleja" se centra en casos de análisis prof
 Abordar proyectos de análisis de datos empresariales que requieren un conocimiento sólido de Python, SQL y Ciencia de Datos.
 Explorar escenarios empresariales complejos y aplicar técnicas de análisis avanzadas.
 Aprender a comunicar tus hallazgos y recomendaciones de manera efectiva a través de informes y visualizaciones.
+
+
 Cómo Utilizar Este Repositorio
 Clona o descarga este repositorio a tu entorno local.
 Explora las carpetas "ejercicios_semanales", "ejercicios_integradores" y "ejercicios_aplicacion_compleja" según tu nivel de habilidad y objetivos de aprendizaje.
 Sigue el programa de 24 semanas o personalízalo según tus necesidades y ritmo de aprendizaje.
 Completa los ejercicios, proyectos y desafíos, y revisa las soluciones proporcionadas si es necesario.
-
-
 ¡Aprende, practica y mejora tus habilidades en Python, SQL, Ciencia de Datos y Análisis de Negocios!
 Colección de ejercicios y material de aprendizaje estructurado para ayudarte a mejorar tus habilidades en Python, SQL, Ciencia de Datos y Análisis de Negocios.
